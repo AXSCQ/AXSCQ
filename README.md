@@ -6,6 +6,7 @@
 
 <div align="center">
   <p>¡Hola! 👋 Soy desarrollador web y músico de La Paz, Bolivia 🇧🇴</p>
+  <p>Apasionado por crear soluciones innovadoras y experiencias digitales únicas</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-simon-condori-quispe-983964215/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelcondori78@gmail.com)
