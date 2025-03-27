@@ -7,8 +7,7 @@
 <div align="center">
   <p>¡Hola! 👋 Soy desarrollador web y músico de La Paz, Bolivia 🇧🇴</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-condori-983964215)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelcondori78@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-condori-983964215/?trk=nav_responsive_tab_profile_pic&originalSubdomain=bo)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelcondori78@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59177549627)
 </div>
 
