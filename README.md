@@ -1,62 +1,82 @@
-# Axel Simon Condori Quispe 👨‍💻 🎵
+# <div align="center">👨‍💻 Axel Simon Condori Quispe 🎵</div>
 
-## Desarrollador Full Stack & Músico
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;M%C3%BAsico;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+</div>
 
-¡Hola! Soy un desarrollador apasionado y músico con experiencia en la creación de soluciones web innovadoras. Me especializo en combinar mis habilidades técnicas con mi creatividad musical para ofrecer experiencias digitales únicas.
+<div align="center">
+  <p>¡Hola! 👋 Soy desarrollador web y músico de La Paz, Bolivia 🇧🇴</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-condori-983964215)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelcondori78@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59177549627)
+</div>
 
-### 🚀 Tecnologías y Herramientas
+## <div align="center">💻 Tecnologías</div>
 
-#### Frontend
-- React
-- JavaScript
-- HTML5
-- CSS3
+<div align="center">
 
-#### Backend
-- Node.js
-- PHP
-- Python
-- FastAPI
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Bases de Datos
-- PostgreSQL
-- MySQL
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### Herramientas
-- Git
-- Docker
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📚 Actualmente Aprendiendo
-- TypeScript
-- Next.js
-- AWS
-- CI/CD
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💼 Experiencia
-Tengo 2 años de experiencia desarrollando aplicaciones web y bots con tecnologías como Node.js, React, PHP y bases de datos SQL/NoSQL. Actualmente trabajo en proyectos personales y en la Cámara de Diputados de Bolivia.
+</div>
 
-### 🎓 Educación
-- Egresado en Ingeniería de Sistemas - Universidad Tecnológica de Bolivia
-- Formación continua en desarrollo web y UX/UI
-- Estudiante de Música
+## <div align="center">📊 Estadísticas de GitHub</div>
 
-### 🏆 Logros
-- 2° puesto en la competencia de gestión de IPMA en 2022
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AXSCQ&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-### 📫 Contacto
-- Email: axelcondori78@gmail.com
-- WhatsApp: +591 77549627
-- Ubicación: La Paz, Bolivia
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AXSCQ&theme=radical" alt="GitHub Streak" />
+</div>
 
-### 🌟 Pasiones
-- Programación
-- Música
-- Aprendizaje continuo
+## <div align="center">🌱 Aprendiendo</div>
 
-### 🔗 Enlaces
-- [Portfolio](https://tu-portfolio.com)
-- [LinkedIn](https://www.linkedin.com/in/axel-condori-983964215)
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+## <div align="center">🏆 Logros</div>
+
+<div align="center">
+  
+- 🥈 2° puesto en la competencia de gestión de IPMA 2022
+- 🎓 Egresado en Ingeniería de Sistemas
+- 🎵 Estudiante de Música
+
+</div>
 
 ---
 
-> "Desarrollador apasionado con 2 años de experiencia profesional"
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AXSCQ&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+  > "La música y el código son los lenguajes universales que uso para crear experiencias únicas"
+  
+</div>
